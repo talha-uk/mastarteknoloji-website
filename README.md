@@ -1,35 +1,35 @@
-# Mastar Teknoloji Web Sitesi
+# Mastar Teknoloji Website
 
-Bu proje, **Mastar Teknoloji** için tasarladığım ve geliştirdiğim kurumsal web sitesidir.  
-Proje tamamlandıktan sonra yönetimi müşteriye devredilmiştir.
+This project is a corporate website I designed and developed for **Mastar Teknoloji**.  
+After completion, the management of the website was handed over to the client.
 
-🌐 **Canlı site:** [mastarteknoloji.com.tr](https://www.mastarteknoloji.com.tr/)
-
----
-
-## 💡 Proje Hakkında
-
-- **Amaç:** Firmanın hizmetlerini, referanslarını ve iletişim bilgilerini modern bir tasarımla sunmak.
-- **Teknolojiler:**
-  - HTML5, CSS3, JavaScript
-  - WordPress
+🌐 **Live site:** [mastarteknoloji.com.tr](https://www.mastarteknoloji.com.tr/)
 
 ---
 
-## 🎨 Özellikler
+## 💡 About the Project
 
-- Mobil uyumlu ve hızlı yüklenen bir yapı
-- SEO dostu meta yapısı
-- Modern tasarım çizgileri
-
----
-
-## 👤 Geliştirici
-
-Bu proje **[Talha](https://github.com/talha-uk)** tarafından tasarlanmıştır.  
-Proje üzerindeki yönetim şu anda Mastar Teknoloji ekibine aittir.
+- **Purpose:** To present the company’s services, references, and contact information with a modern design.  
+- **Technologies:**
+  - HTML5, CSS3, JavaScript  
+  - WordPress  
 
 ---
 
-📅 **Proje dönemi:** Mayıs 2024  
-🔄 **Durum:** Tamamlandı, artık aktif olarak yönetilmiyor.
+## 🎨 Features
+
+- Mobile-friendly and fast-loading structure  
+- SEO-friendly meta setup  
+- Modern and clean design elements  
+
+---
+
+## 👤 Developer
+
+This project was designed and developed by **[Talha](https://github.com/talha-uk)**.  
+The website is currently managed by the Mastar Teknoloji team.
+
+---
+
+📅 **Project period:** May 2024  
+🔄 **Status:** Completed — no longer actively maintained.
